@@ -58,12 +58,13 @@ The BenchmarkSorts program has the following package structure:
 
 ```
 com.example.benchmark
-├── BenchmarkSorts.java
-├── MergeSort.java
-├── HeapSort.java
 ├── AbstractSort.java
-├── StatisticsUtils.java
+├── BenchmarkSorts.java
+├── HeapSort.java
+├── MergeSort.java
 ├── ReportGenerator.java
+├── StatisticsUtils.java
+├── UnsortedExcetion.java
 └── Main.java
 ```
 
