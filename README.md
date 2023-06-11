@@ -64,7 +64,7 @@ com.example.benchmark
 ├── MergeSort.java
 ├── ReportGenerator.java
 ├── StatisticsUtils.java
-├── UnsortedExcetion.java
+├── UnsortedException.java
 └── Main.java
 ```
 
