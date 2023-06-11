@@ -113,7 +113,6 @@ public class ReportGenerator {
                 frame.pack();
 
                 frame.setResizable(false);
-                frame.pack();
                 frame.setLocationRelativeTo(null);
                 frame.setVisible(true);
 
